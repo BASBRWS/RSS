@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hoogbegaafd Feitje van de Dag</title>
+    <link>https://www.hbfeiten.nl</link>
+    <description>Korte, scherpe inzichten over hoogbegaafdheid. Elke dag een feit dat schuurt, prikkelt of raakt.</description>
+    <language>nl-nl</language>
+    <pubDate>Fri, 28 Mar 2025 07:00:00 +0100</pubDate>
+    <atom:link href="https://www.hbfeiten.nl/rss.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>2% van de bevolking is hoogbegaafd, maar 80% wordt nooit herkend</title>
+      <description>Hoewel een IQ &gt;130 bij 2% van de mensen voorkomt, wordt het gros nooit als hoogbegaafd geïdentificeerd. Vooral bij meisjes, mensen met een migratieachtergrond of met maskerende copingstrategieën.</description>
+      <link>https://www.nro.nl/publicaties/hoogbegaafdheid</link>
+      <guid isPermaLink="false">hb20250328</guid>
+      <pubDate>Fri, 28 Mar 2025 07:00:00 +0100</pubDate>
+    </item>
+
+    <item>
+      <title>Hoogbegaafden hebben vaker een bore-out dan een burn-out</title>
+      <description>Een bore-out ontstaat bij structurele onderstimulatie. Veel HB'ers ervaren dit als destructiever dan een klassieke burn-out.</description>
+      <link>https://www.sengifted.org/post/the-boreout-of-the-gifted-adult</link>
+      <guid isPermaLink="false">hb20250329</guid>
+      <pubDate>Sat, 29 Mar 2025 07:00:00 +0100</pubDate>
+    </item>
+
+    <item>
+      <title>Hoogbegaafd ≠ hoog presteren</title>
+      <description>Veel HB'ers onderpresteren structureel. Niet uit onwil, maar omdat motivatie gekoppeld is aan zingeving en autonomie. Conformeren kost energie.</description>
+      <link>https://www.tessakieboom.be/publicaties</link>
+      <guid isPermaLink="false">hb20250330</guid>
+      <pubDate>Sun, 30 Mar 2025 07:00:00 +0100</pubDate>
+    </item>
+
+    <item>
+      <title>Twice Exceptional: 2E komt veel vaker voor dan gedacht</title>
+      <description>Een aanzienlijk deel van de HB-populatie heeft ook kenmerken van ADHD, ASS of dyslexie. Die combinatie wordt vaak gemist of verkeerd geïnterpreteerd.</description>
+      <link>https://www.sengifted.org/twice-exceptional</link>
+      <guid isPermaLink="false">hb20250331</guid>
+      <pubDate>Mon, 31 Mar 2025 07:00:00 +0100</pubDate>
+    </item>
+
+    <item>
+      <title>HB-volwassenen switchen tot 7x vaker van baan</title>
+      <description>Niet vanwege onrust, maar omdat zij snel doorstructureren, patronen zien en afhaken als de omgeving niet mee verandert. Vaak ten onrechte geïnterpreteerd als instabiel gedrag.</description>
+      <link>https://interiq.nl/onderzoeken</link>
+      <guid isPermaLink="false">hb20250401</guid>
+      <pubDate>Tue, 01 Apr 2025 07:00:00 +0100</pubDate>
+    </item>
+
+  </channel>
+</rss>
